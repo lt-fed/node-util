@@ -1,0 +1,28 @@
+{
+  "name": "lt-util",
+  "version": "0.1.1",
+  "description": "node util",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lt-fed/node-util.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "yuji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lt-fed/node-util/issues"
+  },
+  "homepage": "https://github.com/lt-fed/node-util#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "koa-router": "^5.4.0"
+  }
+}
