@@ -3,6 +3,6 @@
  */
 
 const libFolder = './lib/';
-const exportController = require(libFolder + 'export-controller');
+const exportController = require(libFolder + 'export-controllers');
 
 exports.exportController = exportController;
